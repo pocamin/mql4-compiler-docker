@@ -1,0 +1,7 @@
+0	09:50:32.911	Expert test2.mq4 USDCHF,H1: loaded successfully
+0	09:50:50.394	test2.mq4 USDCHF,H1: initialized
+0	09:50:55.834	test2.mq4 USDCHF,H1: uninit reason 4
+0	09:50:55.839	Expert test2.mq4 USDCHF,H1: removed
+0	09:51:18.350	Expert MACD Sample USDCHF,M1: removed
+0	09:51:18.360	Expert test2.mq4 USDCHF,M1: loaded successfully
+0	09:51:24.202	Expert test2.mq4 USDCHF,M1: removed

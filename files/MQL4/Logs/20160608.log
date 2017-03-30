@@ -1,0 +1,7 @@
+0	11:59:57.365	Expert MACD Sample USDCHF,M1: loaded successfully
+0	11:59:57.365	MACD Sample USDCHF,M1 inputs: TakeProfit=50.0; Lots=0.1; TrailingStop=30.0; MACDOpenLevel=3.0; MACDCloseLevel=2.0; MATrendPeriod=26; 
+0	12:03:08.265	Expert MACD Sample USDCHF,M1: removed
+0	12:03:16.714	Expert MACD Sample USDCHF,M1: loaded successfully
+0	12:03:16.714	MACD Sample USDCHF,M1 inputs: TakeProfit=50.0; Lots=0.1; TrailingStop=30.0; MACDOpenLevel=3.0; MACDCloseLevel=2.0; MATrendPeriod=26; 
+0	12:03:53.347	Automated trading disabled
+3	12:03:53.347	Automated trading disabled because the account has been changed
