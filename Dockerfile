@@ -1,7 +1,7 @@
 FROM suchja/wine:latest
 MAINTAINER contact@myforexidea.com
 USER root
-RUN mkdir -p /softwares/mt4/MQL4
+RUN mkdir -p /softwares/mt4/MQL4/Experts
 COPY files/*.* /softwares/mt4/
 COPY files/compiler /softwares/mt4/
 COPY files/MQL4 /softwares/mt4/MQL4
